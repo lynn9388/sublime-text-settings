@@ -1,6 +1,8 @@
 {
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
-	"font_size": 12,
-	"draw_white_space": "all",
-	"theme": "Material-Theme.sublime-theme"
+    "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+    "draw_white_space": "all",
+    "font_size": 10,
+    "theme": "Material-Theme.sublime-theme",
+    "show_encoding": true,
+    "show_line_endings": true
 }
