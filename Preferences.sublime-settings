@@ -1,9 +1,6 @@
 {
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"font_size": 12,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
+	"draw_white_space": "all",
 	"theme": "Material-Theme.sublime-theme"
 }
