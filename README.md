@@ -14,7 +14,7 @@
     ```
     Change file permissions in Ubuntu
     ```bash
-	sudo chmod 777 Package Control.sublime-settings Preferences.sublime-settings
+	sudo chmod 777 Package\ Control.sublime-settings Preferences.sublime-settings
     ```
 5. Run Sublime Text and wait for packages to install
 6. Activate **Material Theme**
