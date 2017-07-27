@@ -1,9 +1,13 @@
 {
-    "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
-    "font_size": 10,
-    "draw_white_space": "all",
-    "trim_trailing_white_space_on_save": true,
-    "theme": "Material-Theme.sublime-theme",
-    "show_encoding": true,
-    "show_line_endings": true
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"draw_white_space": "all",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "Material-Theme.sublime-theme",
+	"trim_trailing_white_space_on_save": true
 }
